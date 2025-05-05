@@ -134,3 +134,8 @@ public class Bully {
         sc.close();
     }
 }
+
+//cd Desktop
+//cd folder-name
+//javac f-name.java
+//java f-name
